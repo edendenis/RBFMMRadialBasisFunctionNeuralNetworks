@@ -3,7 +3,7 @@
 
 # # Radial Basis Function Neural Networks (RBFNN)
 # 
-# [![DOI](https://zenodo.org/badge/758743599.svg)](https://zenodo.org/doi/10.5281/zenodo.10672748)
+# [![DOI](https://zenodo.org/badge/758747133.svg)](https://zenodo.org/doi/10.5281/zenodo.10672752)
 # 
 
 # ## Resumo
@@ -18,7 +18,7 @@
 # 
 # | Revisão número | Data da revisão | Descrição da revisão                                    | Autor da revisão                                |
 # |:--------------:|:---------------:|:--------------------------------------------------------|:------------------------------------------------|
-# | 0              | 15/09/2022      | <ul><li>Revisão inicial/criação do documento.</li></ul> | <ul><li>Eden Denis F. da S. L. Santos</li></ul> |
+# | 0              | 17/02/2024      | <ul><li>Revisão inicial/criação do documento.</li></ul> | <ul><li>Eden Denis F. da S. L. Santos</li></ul> |
 # 
 
 # ## 1. Como executar a aplicação
